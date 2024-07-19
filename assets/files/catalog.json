@@ -4,65 +4,138 @@
             "id": 1,
             "name": "iPhone 15 Pro Max",
             "desc": "Apple iPhone 15 Series",
-            "price": 999,
+            "price": "1,49,999",
             "color": "#33505a",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRISJ6msIu4AU9_M9ZnJVQVFmfuhfyJjEtbUm3ZK11_8IV9TV25-1uM5wHjiFNwKy99w0mR5Hk&usqp=CAc"
+            "image": "https://cdn1.smartprix.com/rx-iHbVjGgm6-w420-h420/apple-iphone-15-pro.webp"
         },
         {
             "id": 2,
-            "name": "Pixel 5",
-            "desc": "Google Pixel phone 5th generation",
-            "price": 699,
+            "name": "iPhone 15 Pro",
+            "desc": "Apple iPhone 15 Series",
+            "price": "1,25,999",
             "color": "#00ac51",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd0JhwLvm_uLDLc-la7hK9WyVpe9naJFcebKfhcICiq2KtvXDePNAU_9QO06LPcQ0K0fLByc7m&usqp=CAc"
+            "image": "https://cdn1.smartprix.com/rx-i02LH7v4W-w420-h420/apple-iphone-15-pro.webp"
         },
         {
             "id": 3,
-            "name": "M1 Macbook Air",
-            "desc": "Apple Macbook air with apple silicon",
-            "price": 1099,
-            "color": "#e0bfae",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMOMstwtmLnjFb3NHiDJ_kcQnueNVH-rv_3ps96HZmXlFumKWaiBqq_L4Uoyx3iFiNTrXNEbyB&usqp=CAc"
+            "name": "iPhone 15",
+            "desc": "Apple iPhone 15 Series",
+            "price": "79,999",
+            "color": "#00ac51",
+            "image": "https://cdn1.smartprix.com/rx-iJCkFukvl-w420-h420/apple-iphone-15-plus.webp"
         },
+
         {
             "id": 4,
-            "name": "Playstation 5",
-            "desc": "Sony Playstation 5th generation",
-            "price": 500,
-            "color": "#544ee4",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMOMstwtmLnjFb3NHiDJ_kcQnueNVH-rv_3ps96HZmXlFumKWaiBqq_L4Uoyx3iFiNTrXNEbyB&usqp=CAc"
+            "name": "Google Pixel 8 Pro",
+            "desc": "Googel Pixel Series",
+            "price": "99,999",
+            "color": "#e0bfae",
+            "image": "https://cdn1.smartprix.com/rx-iL2DheLlW-w420-h420/google-pixel-8-pro.webp"
         },
         {
             "id": 5,
-            "name": "Airpods Pro",
-            "desc": "Apple Aipods Pro 1st generation",
-            "price": 200,
-            "color": "#e3e4e9",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQROEs084z65psoo06zYl5R0tUzywOVKVQZzmzqCj3PDP1vVJTWv3gGwGMFENSy4qV4n7sEQjE&usqp=CAc"
+            "name": "Google Pixel 8",
+            "desc": "Googel Pixel Series",
+            "price": "74,999",
+            "color": "#e0bfae",
+            "image": "https://cdn1.smartprix.com/rx-iOcchBvRX-w420-h420/google-pixel-8-8gb-r.webp"
         },
         {
             "id": 6,
-            "name": "iPad Pro",
-            "desc": "Apple iPad Pro 2020 edition",
-            "price": 799,
-            "color": "#f73984",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNzUeRQ5uH7E3hpECib8qxdhfHv6SnUGT7mOsew_xiOoqRR7ZpdH-TQ4J6-HuIEfqHimYyPXWH&usqp=CAc"
+            "name": "Google Pixel 8A",
+            "desc": "Googel Pixel Series",
+            "price": "49,999",
+            "color": "#e0bfae",
+            "image": "https://cdn1.smartprix.com/rx-ia0GcyTg0-w420-h420/google-pixel-8a.webp"
         },
         {
             "id": 7,
-            "name": "Galaxy S21 Ultra",
-            "desc": "Samsung Galaxy S21 Ultra 2021 edition",
-            "price": 1299,
-            "color": "#1c1c1c",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT_PZcc0wicVYR992s5QCIDLYy8t-z-9kibTUdWZBN2sd86aaqdAJfhvxAwZNWV9wfdzDikpr1&usqp=CAc"
+            "name": "Samsung Galaxy S24 Ultra",
+            "desc": "Samsung Galaxy S24 Series",
+            "price": "1,25,000",
+            "color": "#e0bfae",
+            "image": "https://cdn1.smartprix.com/rx-iz5ZKOGY0-w420-h420/samsung-galaxy-s24-u.webp"
+        },
+        {
+            "id": 7,
+            "name": "Samsung Galaxy S24 5G",
+            "desc": "Samsung Galaxy S24 Series",
+            "price": "75,000",
+            "color": "#e0bfae",
+            "image": "https://cdn1.smartprix.com/rx-itgt6Yhts-w420-h420/samsung-galaxy-s24-5.webp"
         },
         {
             "id": 8,
-            "name": "Galaxy S21",
-            "desc": "Samsung Galaxy S21 2021 edition",
-            "price": 899,
-            "color": "#7c95eb",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBNHd7FwarbxA1xdMFt24KazjcR4dWPH_t_T5dz4YNK1s7rJAQ8gOIuR_NRw6eeiQgFhbZ9sAN&usqp=CAc"
-        }
+            "name": "Samsung Galaxy S24 Plus",
+            "desc": "Samsung Galaxy S24 Series",
+            "price": "99,999",
+            "color": "#e0bfae",
+            "image": "https://cdn1.smartprix.com/rx-isJLArRdI-w420-h420/samsung-galaxy-s24-p.webp"
+        },
+        {
+            "id": 9,
+            "name": "OnePlus 12",
+            "desc": "OnePlus 12 Series",
+            "price": "59,999",
+            "color": "#e0bfae",
+            "image": "https://m.media-amazon.com/images/I/717Qo4MH97L._SX679_.jpg"
+        },
+        {
+            "id": 10,
+            "name": "OnePlus 12R",
+            "desc": "OnePlus 12 Series",
+            "price": "39,999",
+            "color": "#e0bfae",
+            "image": "https://m.media-amazon.com/images/I/41SbFiUoSOL._SX300_SY300_QL70_FMwebp_.jpg"
+        },
+        {
+            "id": 11,
+            "name": "Nothing Phone 2",
+            "desc": "Nothing Phone Series",
+            "price": "29,999",
+            "color": "#e0bfae",
+            "image": "https://cdn1.smartprix.com/rx-iQUppRDbS-w420-h420/nothing-phone-2.webp"
+        },
+        {
+            "id": 12,
+            "name": "Nothing Phone 2a",
+            "desc": "Nothing Phone Series",
+            "price": "21,999",
+            "color": "#e0bfae",
+            "image": "https://cdn1.smartprix.com/rx-iX1TaPGbE-w420-h420/nothing-phone-2a.webp"
+        },
+        {
+            "id": 13,
+            "name": "Playstation 5",
+            "desc": "Sony Playstation 5th Generation",
+            "price": "49,999",
+            "color": "#544ee4",
+            "image": "https://cdn1.smartprix.com/rx-iONR62zZ0-w420-h420/sony-playstation-5-p.webp"
+        },
+        {
+            "id": 14,
+            "name": "Apple iPad Air",
+            "desc": "Apple iPad Air 2024 edition",
+            "price": "59,900",
+            "color": "#f73984",
+            "image": "https://cdn1.smartprix.com/rx-iLaDYlI6r-w420-h420/apple-ipad-air-2024.webp"
+        },
+        {
+            "id": 15,
+            "name": "Apple iPad Pro",
+            "desc": "Apple iPad Pro 2024 edition",
+            "price": "99,900",
+            "color": "#f73984",
+            "image": "https://cdn1.smartprix.com/rx-iLRBrgsSY-w420-h420/apple-ipad-pro-11-in.webp"
+        },
+        {
+            "id": 16,
+            "name": "Apple AirPods Pro (2nd Generation)",
+            "desc": "Apple Aipods Pro 2nd generation",
+            "price": "19,900",
+            "color": "#e3e4e9",
+            "image": "https://cdn1.smartprix.com/rx-ilcyuiDj8-w420-h420/apple-airpods-pro-2n.webp"
+        }        
     ]
 }

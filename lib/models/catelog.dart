@@ -8,7 +8,7 @@ class Item {
   final int id;
   final String name;
   final String desc;
-  final num price;
+  final String price;
   final String color;
   final String image;
 
@@ -25,7 +25,7 @@ class Item {
     required int id,
     required String name,
     required String desc,
-    required num price,
+    required String price,
     required String color,
     required String image,
   }) {
